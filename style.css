@@ -1,0 +1,26 @@
+.dog2
+{
+    position:absolute;
+    top:10px;
+    margin-left: 500px
+}
+
+a{
+    color:black;
+    text-decoration: 2px tomato overline;
+
+}
+a:hover 
+{
+    text-decoration: 2px tomato underline;
+}
+
+.imgdog
+{
+    position:absolute;
+    top:230px;
+    left:90px;
+    border:2px groove skyblue;
+    border-radius:10px;
+    
+}
